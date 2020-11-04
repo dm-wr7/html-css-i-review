@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(231, 182, 182);
+}
+
+.first-div {
+    background-color: green;
+    width: 500px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 0 auto;
+}
+
+div {
+    background-color: yellow;
+}
+
+div.first-div {
+    background-color: blue;
+}
+
+.second-div {
+    margin-top: -100px;
+}
